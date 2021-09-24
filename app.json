@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Eatery",
+    "slug": "Eatery",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Eatery"
+}
